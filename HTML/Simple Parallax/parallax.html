@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Personal Website</title>
+    <link rel="stylesheet" href="parallax.css">
+</head>
+<body>
+    <section>
+        <img src="images/bg.jpg" id="bg">
+        <img src="images/moon.png" id="moon">
+        <img src="images/mountain.png" id="mountain">
+        <img src="images/road.png" id="road">
+        <h2 id="text">Aidin Jamshidi</h2>
+    </section>
+    <script type="text/javascript">
+        let bg = document.getElementById("bg");
+        let moon = document.getElementById("moon");
+        let mountain = document.getElementById("mountain");
+        let road = document.getElementById("road");
+        let text = document.getElementById("text");
+
+        window.addEventListener('scroll', function(){var value = window.scrollY;
+        bg.style.top = value * 0.5 + 'px';
+        moon.style.top = -value * 0.5 + 'px';
+        mountain.style.top = -value * 0.15 + 'px';
+        road.style.top = value * 0.15 + 'px';
+        text.style.top = value * 1 + 'px';
+        })
+    </script>
+</body>
+</html>
