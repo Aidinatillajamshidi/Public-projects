@@ -1,4 +1,4 @@
-**TSIU03 - System Design - MAGHK - Group 2** <br />
+**System Design - MAGHK** <br />
 
 **Midi-keyboard**
 
