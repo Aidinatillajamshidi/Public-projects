@@ -1,4 +1,4 @@
-**System Design - MAGHK** <br />
+**System Design - MAGHK - VHDL** <br />
 
 **Midi-keyboard**
 
