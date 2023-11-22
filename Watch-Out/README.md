@@ -4,6 +4,6 @@
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-**Watch-Out is a game designed for Arduino. The purpose of the course is to construct something of a technical nature in project form, for example a game. The game is inspired by Google's Dinosaur Game, which involves avoiding obstacles to collect points.**
+**Watch-Out is a game designed for Arduino. The purpose of the project is to construct something of a technical nature in project form, for example a game. The game is inspired by Google's Dinosaur Game, which involves avoiding obstacles to collect points.**
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
